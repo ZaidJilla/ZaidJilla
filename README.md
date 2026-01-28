@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I am Zaid Munaf Jilla</h1>
-<h3 align="center">A Sophomore Computer Science Student at Wentworth Institute of Technology!</h3>
+<h3 align="center">A Sophomore Computer Science + Finance Student at Northeastern University!</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python & Java**
 
 - 📫 How to reach me **ZaidJilla10@gmail.com**
 
