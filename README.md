@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋 I am Zaid Munaf Jilla</h1>
-<h3 align="center">A Sophomore Computer Science + Finance Student at Northeastern University!</h3>
+<h3 align="center">A Junior Computer Science + Finance Student at Northeastern University!</h3>
 
 - 🌱 I’m currently learning **Python & Java**
 
