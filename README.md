@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Zaid 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5C0A14,100:D62839&height=220&section=header&text=Zaid%20Jilla&fontSize=64&fontColor=ffffff&animation=fadeIn" width="100%" alt="Zaid Jilla" />
+</p>
 
 <p align="center">
   CS + Finance @ Northeastern
