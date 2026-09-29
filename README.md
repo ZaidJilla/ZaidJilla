@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Zaid 👋</h1>
 
 <p align="center">
-  CS + Finance @ Northeastern · Building tools that make messy data make sense
+  CS + Finance @ Northeastern
 </p>
 
 <p align="center">
